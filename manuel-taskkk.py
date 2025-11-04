@@ -4,8 +4,8 @@ print("age - way too old")
 ##this block of code creates variables for my data and checks it's data type.
 name = "Emmanuel"
 age = 35
-print(f"{name} is type {type(name)}")
-print(f"{age} is type {type(age)}")
+print(f" {name} is type {type(name)}")
+print(f" {age} is type {type(age)}")
 
 ## this block of code creates two numbers and show their sum, diff & product
 p = 16
